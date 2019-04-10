@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<level nama="level1" w="650.0" h="1000.0" horizontal="false">
+	<benda x="0.0" y="0.0" w="50.0" h="50.0" nama="satu" jenisObjek="0"/>
+	<benda x="0.0" y="950.0" w="50.0" h="50.0" nama="satu" jenisObjek="0"/>
+	<benda x="600.0" y="0.0" w="50.0" h="50.0" nama="satu" jenisObjek="0"/>
+	<benda x="600.0" y="950.0" w="50.0" h="50.0" nama="satu" jenisObjek="0"/>
+</level>

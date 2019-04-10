@@ -1,0 +1,6 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<daftar_nama>
+	<nama_objek nama="satu"/>
+	<nama_objek nama="dua"/>
+	<nama_objek nama="tiga"/>
+</daftar_nama>

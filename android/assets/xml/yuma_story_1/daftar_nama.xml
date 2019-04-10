@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<daftar_nama>
+	<nama_musuh nama="a"/>
+	<nama_musuh nama="b"/>
+	<nama_musuh nama="c"/>
+	<nama_musuh nama="d"/>
+	<nama_musuh nama="e"/>
+	<nama_musuh nama="f"/>
+	<nama_musuh nama="g"/>
+	<nama_musuh nama="h"/>
+	<nama_musuh nama="i"/>
+	<nama_musuh nama="j"/>
+	<nama_musuh nama="k"/>
+	<nama_musuh nama="l"/>
+	<nama_musuh nama="m"/>
+	<nama_musuh nama="n"/>
+	<nama_musuh nama="o"/>
+	<nama_musuh nama="p"/>
+	<nama_musuh nama="q"/>
+	<nama_musuh nama="r"/>
+	<nama_musuh nama="s"/>
+	<nama_musuh nama="t"/>
+	<nama_musuh nama="u"/>
+	<nama_musuh nama="v"/>
+	<nama_musuh nama="w"/>
+	<nama_musuh nama="x"/>
+	<nama_musuh nama="y"/>
+	<nama_musuh nama="z"/>
+	<nama_buff nama="buff1"/>
+	<nama_buff nama="buff2"/>
+</daftar_nama>
