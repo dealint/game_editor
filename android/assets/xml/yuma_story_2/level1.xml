@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<level nama="level1" w="1000.0" h="650.0">
+	<benda x="284.0" y="253.0" w="50.0" h="50.0" nama="MusuhA" jenis="0"/>
+	<benda x="125.0" y="385.0" w="50.0" h="50.0" nama="MusuhB" jenis="1"/>
+	<benda x="608.0" y="533.0" w="50.0" h="50.0" nama="MusuhB" jenis="1"/>
+	<benda x="496.0" y="359.0" w="50.0" h="50.0" nama="MusuhB" jenis="1"/>
+	<benda x="772.0" y="481.0" w="50.0" h="50.0" nama="MusuhB" jenis="1"/>
+	<benda x="871.0" y="354.0" w="50.0" h="50.0" nama="MusuhB" jenis="1"/>
+	<benda x="315.0" y="557.0" w="50.0" h="50.0" nama="MusuhB" jenis="1"/>
+	<benda x="368.0" y="436.0" w="50.0" h="50.0" nama="MusuhB" jenis="1"/>
+</level>

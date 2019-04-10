@@ -1,0 +1,46 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<level nama="level2" w="650.0" h="2000.0">
+	<benda x="76.0" y="351.0" w="50.0" h="50.0" nama="musuh1" tipe="0" texture_index="0" tampil_slider="false" y_percent="50">
+		<item x="72.0" y="433.0" tipe="0"/>
+	</benda>
+	<benda x="256.0" y="479.0" w="50.0" h="50.0" nama="musuh1" tipe="0" texture_index="0" tampil_slider="false" y_percent="50">
+		<item x="252.0" y="561.0" tipe="0"/>
+	</benda>
+	<benda x="411.0" y="640.0" w="50.0" h="50.0" nama="musuh1" tipe="0" texture_index="0" tampil_slider="false" y_percent="50">
+		<item x="406.0" y="722.0" tipe="0"/>
+	</benda>
+	<benda x="529.0" y="784.0" w="50.0" h="50.0" nama="musuh1" tipe="0" texture_index="0" tampil_slider="false" y_percent="50">
+		<item x="531.0" y="866.0" tipe="0"/>
+	</benda>
+	<benda x="551.0" y="1029.0" w="50.0" h="50.0" nama="musuh1" tipe="0" texture_index="0" tampil_slider="false" y_percent="50">
+		<item x="547.0" y="1111.0" tipe="0"/>
+	</benda>
+	<benda x="259.0" y="1283.0" w="50.0" h="50.0" nama="musuh1" tipe="0" texture_index="0" tampil_slider="false" y_percent="50">
+		<item x="255.0" y="1365.0" tipe="0"/>
+	</benda>
+	<benda x="109.0" y="1588.0" w="50.0" h="50.0" nama="musuh1" tipe="0" texture_index="0" tampil_slider="false" y_percent="50">
+		<item x="105.0" y="1670.0" tipe="0"/>
+	</benda>
+	<benda x="326.0" y="1686.0" w="50.0" h="50.0" nama="musuh1" tipe="0" texture_index="0" tampil_slider="false" y_percent="50">
+		<item x="322.0" y="1768.0" tipe="0"/>
+	</benda>
+	<benda x="479.0" y="1893.0" w="50.0" h="50.0" nama="musuh1" tipe="0" texture_index="0" tampil_slider="false" y_percent="50">
+		<item x="474.0" y="1975.0" tipe="0"/>
+	</benda>
+	<benda x="541.0" y="1316.0" w="50.0" h="50.0" nama="musuh2" tipe="0" texture_index="1" tampil_slider="false" y_percent="74">
+		<item x="543.0" y="1368.0" tipe="0"/>
+	</benda>
+	<benda x="0.0" y="1451.0" w="50.0" h="50.0" nama="musuh2" tipe="0" texture_index="1" tampil_slider="false" y_percent="34">
+		<item x="1.0" y="1502.0" tipe="0"/>
+	</benda>
+	<benda x="88.0" y="873.0" w="50.0" h="50.0" nama="musuh2" tipe="0" texture_index="1" tampil_slider="false" y_percent="14">
+		<item x="131.0" y="915.0" tipe="0"/>
+		<item x="45.0" y="833.0" tipe="0"/>
+		<item x="131.0" y="963.0" tipe="0"/>
+		<item x="45.0" y="787.0" tipe="0"/>
+		<item x="131.0" y="831.0" tipe="0"/>
+		<item x="45.0" y="919.0" tipe="0"/>
+		<item x="176.0" y="831.0" tipe="0"/>
+		<item x="0.0" y="918.0" tipe="0"/>
+	</benda>
+</level>
